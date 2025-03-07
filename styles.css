@@ -1,0 +1,90 @@
+#main{
+    background-color: rgb(217, 232, 245);
+    margin: 30px 1px 30px 1px;
+    padding-top: 30px;
+}
+h1{
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 39px;
+    font-family: Arial;
+}
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#image{
+    width: 980px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+#img-div{
+    display: block;
+    width: auto;
+    max-width: 100%;
+    height: 100%;
+    border: 1px solid;
+    border-color: white;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    background-color: white;
+    margin-left: 10px; 
+    margin-right: 10px;
+}
+#img-caption{
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    font-size: 15px;
+    line-height: 1.2;
+    align-items: center;
+    padding-top: 15px;
+}
+#tribute-info{
+    display: block;
+    line-height: 1.5;
+    font-family: Arial;
+    width: auto;
+    max-width: 50%;
+    margin-left: 25%;
+    margin-top: 35px;
+}
+h2{
+    text-align: center;
+    font-family: Arial;
+    font-size: 18px;
+    padding-top: 40px;
+}
+li{
+    padding-top: 20px;
+}
+span{
+    font-weight: bold;
+}
+#quote-auth{
+    display: block;
+    width: auto;
+    max-width: 50%;
+    margin-left: 25%;
+    margin-top: 60px;
+    font-style: italic;
+    line-height: 1.5;
+}
+#quote-author{
+    margin-top: 20px;
+    margin-right: 55%;
+}
+section{
+    width: auto;
+    max-width: 70%;
+    font-family: Arial;
+    font-size: 20px;
+    margin: 50px 0 0 250px;
+    padding-bottom: 40px;
+    font-weight: bold;
+}
